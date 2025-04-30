@@ -19,6 +19,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang="en" suppressHydrationWarning>
         <head>
+          <meta name="google" content="notranslate" />
           <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
           <meta name="theme-color" content="#00008B" />
         </head>
